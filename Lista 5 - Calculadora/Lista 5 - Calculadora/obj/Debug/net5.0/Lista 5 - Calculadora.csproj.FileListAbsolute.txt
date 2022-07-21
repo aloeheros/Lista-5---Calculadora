@@ -1,0 +1,16 @@
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.csproj.AssemblyReference.cache
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.AssemblyInfoInputs.cache
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.AssemblyInfo.cs
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\bin\Debug\net5.0\Lista 5 - Calculadora.exe
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\bin\Debug\net5.0\Lista 5 - Calculadora.deps.json
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\bin\Debug\net5.0\Lista 5 - Calculadora.runtimeconfig.json
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\bin\Debug\net5.0\Lista 5 - Calculadora.runtimeconfig.dev.json
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\bin\Debug\net5.0\Lista 5 - Calculadora.dll
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\bin\Debug\net5.0\Lista 5 - Calculadora.pdb
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.dll
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\refint\Lista 5 - Calculadora.dll
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.pdb
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\Lista 5 - Calculadora.genruntimeconfig.cache
+C:\Users\usuário\Desktop\Calculadora\Lista 5 - Calculadora\Lista 5 - Calculadora\obj\Debug\net5.0\ref\Lista 5 - Calculadora.dll
